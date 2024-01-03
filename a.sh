@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "New file"
+echo "Test script"
